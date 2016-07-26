@@ -1,4 +1,4 @@
 # docker-lein
-Simple Docker Container with Leinegen and CLJ
+Simple Docker Container with Leiningen and CLJ
 
-A really simple Leinegen Docker image using filipecabaco/java-jre:8
+A really simple Leiningen Docker image using filipecabaco/java-jre:8
